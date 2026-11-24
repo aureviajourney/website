@@ -1,0 +1,47 @@
+{
+    "kerala":  {
+                   "author":  "Paul Arps from The Netherlands",
+                   "license":  "CC BY 2.0",
+                   "source":  "https://commons.wikimedia.org/wiki/File:Houseboat_on_Alleppey_backwaters_(Kerala,_India_2023)_(52704323376).jpg"
+               },
+    "udaipur":  {
+                    "author":  "Jakub Hałun",
+                    "license":  "CC BY-SA 4.0",
+                    "source":  "https://commons.wikimedia.org/wiki/File:20191207_Lake_Pichola,_City_Palace,_Udaipur,_1516_7254.jpg"
+                },
+    "maldives":  {
+                     "author":  "Martin Falbisoner",
+                     "license":  "CC BY-SA 4.0",
+                     "source":  "https://commons.wikimedia.org/wiki/File:Diamonds_Thudufushi_Beach_and_Water_Villas,_May_2017_-04.jpg"
+                 },
+    "santorini":  {
+                      "author":  "User:Anna.Tsolidou",
+                      "license":  "CC BY-SA 4.0",
+                      "source":  "https://commons.wikimedia.org/wiki/File:Oia_-_Santorini_2019.jpg"
+                  },
+    "kyoto":  {
+                  "author":  "Basile Morin",
+                  "license":  "CC BY-SA 4.0",
+                  "source":  "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day,_Kyoto,_Japan.jpg"
+              },
+    "paris":  {
+                  "author":  "Getfunky Paris",
+                  "license":  "CC BY 2.0",
+                  "source":  "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg"
+              },
+    "switzerland":  {
+                        "author":  "Roy Egloff",
+                        "license":  "CC BY-SA 4.0",
+                        "source":  "https://commons.wikimedia.org/wiki/File:CH.VS.Zermatt_2021-10-17_Matterhorn_8726.jpg"
+                    },
+    "bali":  {
+                 "author":  "Philip Nalangan",
+                 "license":  "CC BY 4.0",
+                 "source":  "https://commons.wikimedia.org/wiki/File:Tegallalang_Rice_Terraces_Bali_1.jpg"
+             },
+    "dubai":  {
+                  "author":  "Robert Bock",
+                  "license":  "CC0",
+                  "source":  "https://commons.wikimedia.org/wiki/File:Dubai_skyline_unsplash.jpg"
+              }
+}
