@@ -1,0 +1,657 @@
+AUREVIA | CURATED JOURNEYS
+Complete Production-Ready Premium Travel Services Website Specification
+
+==================================================
+1. BRAND IDENTITY
+==================================================
+
+Brand Name:
+Aurevia
+
+Brand Name Display:
+Aurevia | Curated Journeys
+
+Tagline:
+“Curated Journeys. Exceptional Experiences.”
+
+Business Type:
+Premium Travel Services / Travel Agency / Customized Travel Concierge
+
+Instagram:
+@aurevia__
+
+Business Email:
+aureviajourney@gmail.com
+
+Primary brand positioning:
+Aurevia provides personalized domestic and international travel planning with a premium, seamless and trustworthy experience.
+
+The website must NOT look like a cheap travel-package website. It should feel like a modern luxury travel company similar to a premium hospitality or luxury lifestyle brand.
+
+
+==================================================
+2. DESIGN DIRECTION
+==================================================
+
+Create a sophisticated, elegant, modern and highly responsive design.
+
+Primary color palette:
+
+- Midnight Navy: #071A2B
+- Champagne Gold: #D6B56A
+- Ivory: #F5F1E8
+- White: #FFFFFF
+- Soft Charcoal: #1C1C1C
+
+Use Midnight Navy as the main dark background.
+Use Champagne Gold for important accents, buttons, icons and subtle borders.
+Use Ivory/White for clean content sections.
+
+Typography:
+
+- Elegant luxury serif font for major headings and brand name
+- Clean modern sans-serif font for body text and navigation
+
+The design should use:
+
+- Large cinematic destination photography
+- Subtle animations
+- Smooth scrolling
+- Elegant hover effects
+- Glassmorphism only where appropriate
+- Soft shadows
+- Large whitespace
+- Rounded but sophisticated UI elements
+- Premium gold micro-interactions
+
+Avoid:
+
+- Excessive gradients
+- Cartoon-style graphics
+- Cheap-looking stock-template design
+- Excessive emojis
+- Overly bright colors
+- Generic airplane/globe logo graphics
+- Cluttered layouts
+
+The website must look excellent on:
+
+- Mobile
+- Tablet
+- Desktop
+- Large screens
+
+
+==================================================
+3. WEBSITE STRUCTURE
+==================================================
+
+Create these main pages:
+
+1. Home
+2. About Aurevia
+3. Customized Packages
+4. Services
+5. Contact
+6. Enquiry / Plan Your Journey
+7. Privacy Policy
+8. Terms & Conditions
+
+Add a professional navigation bar:
+
+AUREVIA logo
+
+Home
+Packages
+Services
+About
+Contact
+
+Primary CTA:
+Plan Your Journey
+
+On mobile, use a premium hamburger menu.
+
+
+==================================================
+4. HOME PAGE
+==================================================
+
+HERO SECTION
+
+Create a full-screen cinematic hero section.
+
+Background:
+Luxury international travel destination such as Maldives, Switzerland, Dubai, Paris, Bali, Japan or Santorini.
+
+Headline:
+
+Travel Beyond Ordinary.
+
+Subheading:
+
+Curated journeys, crafted around you.
+
+Supporting text:
+
+“From unforgettable escapes to seamless business travel, Aurevia creates personalized journeys designed around your preferences, pace and purpose.”
+
+Buttons:
+
+Plan Your Journey
+Explore Destinations
+
+Add subtle animated scroll indicator.
+
+Do NOT use an autoplay video that negatively affects performance.
+
+
+==================================================
+5. TRUST / INTRO SECTION
+==================================================
+
+Heading:
+
+Your Journey. Our Craft.
+
+Text:
+
+“At Aurevia, we believe travel should feel effortless. From selecting the perfect destination to arranging flights, stays, transfers and experiences, every detail is thoughtfully curated around you.”
+
+Add 3 premium feature cards:
+
+Personalized
+Journeys designed around your needs.
+
+Seamless
+From planning to return, we handle the details.
+
+Exceptional
+Thoughtfully selected stays and experiences.
+
+
+==================================================
+6. SERVICES SECTION
+==================================================
+
+Heading:
+
+Everything You Need for Your Journey
+
+Create elegant service cards for:
+
+Flights
+
+Domestic and international flight bookings.
+
+Hotels & Stays
+
+Handpicked hotels, resorts and premium stays.
+
+Visa Assistance
+
+Guidance and assistance for visa applications.
+
+Airport Transfers
+
+Reliable private and shared airport transfers.
+
+Customized Packages
+
+Personalized itineraries designed around your budget, interests and schedule.
+
+Experiences
+
+Tours, activities, sightseeing, dining and unique local experiences.
+
+Honeymoon Journeys
+
+Romantic destinations and customized honeymoon experiences.
+
+Corporate Travel
+
+Business trips, corporate stays, flights and transportation.
+
+Each card should have:
+
+- Minimal line icon
+- Image
+- Short description
+- “Explore” or “Learn More” interaction
+
+
+==================================================
+7. CUSTOMIZED TRAVEL PACKAGES
+==================================================
+
+This should be one of the most important sections.
+
+Heading:
+
+Your Journey, Your Way.
+
+Explain:
+
+“No two travelers are the same. Tell us what you want, and we'll help curate the journey around you.”
+
+Create an interactive package enquiry form.
+
+Fields:
+
+Full Name
+Email
+Phone / WhatsApp
+Travel From
+Destination
+Departure Date
+Return Date
+Number of Adults
+Number of Children
+Trip Type
+Travel Preferences
+Special Requests
+
+Trip Type options:
+
+- Honeymoon
+- Family
+- Couple
+- Friends
+- Solo
+- Corporate
+- Luxury
+- Adventure
+- Religious
+- Leisure
+
+CTA:
+
+Curate My Journey
+
+After submission show a beautiful success message:
+
+“Thank you for choosing Aurevia. Our travel specialist will connect with you shortly.”
+
+
+==================================================
+8. WHY AUREVIA
+==================================================
+
+Create a premium dark section.
+
+Heading:
+
+Why Travel With Aurevia?
+
+Features:
+
+01 — Personalized Planning
+02 — Transparent Communication
+03 — Carefully Curated Options
+04 — End-to-End Assistance
+05 — Dedicated Travel Support
+06 — Memorable Experiences
+
+Use elegant numbered typography and subtle animations.
+
+
+==================================================
+9. HOW IT WORKS
+==================================================
+
+Create a 4-step process:
+
+01
+Tell Us Your Vision
+
+02
+We Curate
+
+03
+You Approve
+
+04
+Travel & Experience
+
+Add connected animated line.
+
+
+==================================================
+10. INSTAGRAM SECTION
+==================================================
+
+Create:
+
+Follow the Journey
+
+Display an Instagram-style gallery.
+
+Instagram:
+@aurevia__
+
+Add CTA:
+Follow Aurevia
+
+Make the gallery easy to update later.
+
+
+==================================================
+11. CONTACT SECTION
+==================================================
+
+Heading:
+
+Let's Curate Your Next Journey.
+
+Show:
+
+Email:
+aureviajourney@gmail.com
+
+Instagram:
+@aurevia__
+
+WhatsApp:
+Create placeholder and make it configurable from admin settings.
+
+Phone:
+Create configurable placeholder.
+
+Add enquiry form:
+
+Name
+Email
+Phone
+Destination
+Travel Date
+Message
+
+CTA:
+Send Enquiry
+
+
+==================================================
+12. FOOTER
+==================================================
+
+Create an elegant dark footer.
+
+Logo:
+Aurevia
+
+Tagline:
+Curated Journeys. Exceptional Experiences.
+
+Navigation:
+Home
+Destinations
+Packages
+Services
+Experiences
+About
+Contact
+
+Services:
+Flights
+Hotels
+Visa Assistance
+Transfers
+Customized Packages
+Experiences
+
+Contact:
+aureviajourney@gmail.com
+@aurevia__
+
+Legal:
+Privacy Policy
+Terms & Conditions
+
+Copyright:
+© 2026 Aurevia. All rights reserved.
+
+
+==================================================
+13. ADMIN PANEL
+==================================================
+
+Build a secure admin dashboard.
+
+Admin should be able to manage:
+
+Destinations
+
+- Add destination
+- Edit destination
+- Delete destination
+- Upload image
+- Add description
+- Add country
+- Category
+- Featured destination
+
+Packages
+
+- Add package
+- Edit package
+- Delete package
+- Destination
+- Duration
+- Starting price
+- Inclusions
+- Exclusions
+- Images
+- Itinerary
+
+Website Settings
+
+Admin can update:
+
+- Email
+- Phone
+- WhatsApp
+- Instagram
+- Logo
+- Social links
+- Company information
+
+
+==================================================
+14. WHATSAPP INTEGRATION
+==================================================
+
+Add a floating WhatsApp button on every page.
+
+When the user clicks it, open WhatsApp with a pre-filled message:
+
+“Hello Aurevia, I would like to plan a journey.”
+
+Make the WhatsApp number configurable from the admin dashboard.
+
+
+==================================================
+15. EMAIL NOTIFICATIONS
+==================================================
+
+When a customer submits an enquiry:
+
+Send an email notification to:
+
+aureviajourney@gmail.com
+
+Subject:
+
+New Travel Enquiry — Aurevia
+
+Include all submitted customer information.
+
+Also show a confirmation message to the customer.
+
+Make email configuration easy to change later.
+
+
+==================================================
+16. SEO
+==================================================
+
+Optimize every page for SEO.
+
+Website title:
+
+Aurevia | Curated Journeys & Premium Travel Experiences
+
+Meta description:
+
+Aurevia creates personalized domestic and international journeys with curated flights, hotels, visa assistance, transfers and unforgettable travel experiences.
+
+Use:
+
+- Proper H1/H2 hierarchy
+- SEO-friendly URLs
+- Open Graph metadata
+- Twitter/X metadata
+- Sitemap
+- Robots.txt
+- Structured data where appropriate
+- Destination-specific SEO pages
+
+
+==================================================
+17. PERFORMANCE
+==================================================
+
+The website must be production-ready.
+
+Requirements:
+
+- Fast loading
+- Lazy-load images
+- Responsive images
+- Optimized assets
+- Minimal unnecessary JavaScript
+- Good Core Web Vitals
+- Mobile-first development
+- Accessible navigation
+- Proper error states
+- Loading states
+- Form validation
+- Secure API endpoints
+
+
+==================================================
+18. SECURITY
+==================================================
+
+Implement:
+
+- Secure authentication for admin
+- Password hashing
+- Protected admin routes
+- Input validation
+- Server-side validation
+- Protection against spam submissions
+- Rate limiting where appropriate
+- Secure database access
+- Environment variables for secrets
+- Never expose API keys or credentials in frontend code
+
+
+==================================================
+19. TECHNICAL REQUIREMENTS
+==================================================
+
+Build the project with a modern production-ready architecture.
+
+Frontend:
+Use a modern React-based framework such as Next.js.
+
+Styling:
+Tailwind CSS or an equivalent modern styling system.
+
+Backend:
+Use a secure API/server architecture.
+
+Database:
+Use a reliable database such as PostgreSQL.
+
+Authentication:
+Secure admin authentication.
+
+Images:
+Use optimized image handling.
+
+Forms:
+Use robust client-side and server-side validation.
+
+Architecture should be modular and scalable.
+
+
+==================================================
+20. IMPORTANT UX DETAILS
+==================================================
+
+Add subtle animations such as:
+
+- Fade-in on scroll
+- Smooth section transitions
+- Image hover zoom
+- Button hover animations
+- Elegant card interactions
+- Navigation transition
+- Destination reveal animations
+
+Animations must remain subtle and should never make the website feel slow.
+
+Respect prefers-reduced-motion.
+
+
+==================================================
+21. BRAND EXPERIENCE
+==================================================
+
+The overall feeling should be:
+
+Luxury travel concierge + modern hospitality brand + personalized service.
+
+Imagine a customer visiting the website and immediately thinking:
+
+“This company understands premium travel and can plan my entire journey for me.”
+
+Do not make the website feel like a generic package-selling website.
+
+The primary CTA throughout the website should be:
+
+Plan Your Journey
+
+Secondary CTA:
+
+Explore Destinations
+
+
+==================================================
+22. FINAL REQUIREMENT
+==================================================
+
+Build the complete working website, not just a UI mockup.
+
+All buttons, forms, navigation, database operations and admin functions should work.
+
+Use realistic placeholder content where necessary, but structure everything so I can easily replace it with real Aurevia information later.
+
+Make the website visually exceptional, premium, responsive, fast, secure and ready for deployment.
+
+Before finishing:
+
+- Check all pages
+- Check mobile responsiveness
+- Check forms
+- Check admin authentication
+- Check database operations
+- Check navigation
+- Check SEO
+- Check accessibility
+- Check console errors
+- Fix all broken links
+- Ensure there are no placeholder lorem ipsum texts
+
+The final result should look like a real premium travel company website for Aurevia, suitable for launching publicly.
