@@ -23,7 +23,14 @@ function Nav() {
     return () => { window.removeEventListener('keydown', esc); document.body.style.overflow = '' }
   }, [open])
   return (
-    <header className={'nav' + (solid || open ? ' solid' : '')}>
+    <>
+      <div id="mobile-menu" className={'drawer' + (open ? ' open' : '')} aria-hidden={!open}>
+        <nav aria-label="Mobile">
+          {links.map(([to, l], i) => <Link key={to} to={to} tabIndex={open ? 0 : -1} style={{ transitionDelay: `${open ? 120 + i * 60 : 0}ms` }}><small>0{i + 1}</small>{l}</Link>)}
+          <Link to="/plan-your-journey" className="drawer-cta" tabIndex={open ? 0 : -1} style={{ transitionDelay: `${open ? 460 : 0}ms` }}>Plan Your Journey <Arrow /></Link>
+        </nav>
+      </div>
+    <header className={'nav' + (solid && !open ? ' solid' : '')}>
       <div className="nav-in">
         <Logo />
         <nav aria-label="Primary" className="nav-links">
@@ -32,13 +39,8 @@ function Nav() {
         <Link to="/plan-your-journey" className="btn btn-gold btn-sm nav-cta"><span>Plan Your Journey</span></Link>
         <button className={'burger' + (open ? ' on' : '')} aria-label={open ? 'Close menu' : 'Open menu'} aria-expanded={open} aria-controls="mobile-menu" onClick={() => setOpen(!open)}><i /><i /></button>
       </div>
-      <div id="mobile-menu" className={'drawer' + (open ? ' open' : '')} aria-hidden={!open}>
-        <nav aria-label="Mobile">
-          {links.map(([to, l], i) => <Link key={to} to={to} tabIndex={open ? 0 : -1} style={{ transitionDelay: `${open ? 120 + i * 60 : 0}ms` }}><small>0{i + 1}</small>{l}</Link>)}
-          <Link to="/plan-your-journey" className="drawer-cta" tabIndex={open ? 0 : -1} style={{ transitionDelay: `${open ? 460 : 0}ms` }}>Plan Your Journey <Arrow /></Link>
-        </nav>
-      </div>
     </header>
+    </>
   )
 }
 
